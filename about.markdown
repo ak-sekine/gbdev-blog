@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ゲームボーイ開発ノートは、ゲームボーイ向けソフト制作の学習記録をまとめるブログです。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+RGBDSを使った開発環境の構築、アセンブリ、ツール設定、制作中に詰まった点と解決方法を残していきます。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+同じようにWindowsやWSL2環境でゲームボーイ開発を始める人の参考になる形を目指しています。

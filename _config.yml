@@ -23,6 +23,8 @@ email: akihiro3729@outlook.jp
 description: ゲームボーイソフト開発の記録
 baseurl: "/gbdev-blog" # the subpath of your site, e.g. /blog
 url: "https://ak-sekine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+lang: ja
+timezone: Asia/Tokyo
 twitter_username: ak_sekine
 github_username: ak-sekine 
 

@@ -10,8 +10,6 @@ tags:
     - setup
 ---
 
-# WSL2でJekyll環境を構築しGitHub Pagesでブログを公開する
-
 ## はじめに
 
 ゲームボーイ開発の記録を残すために、GitHub PagesとJekyllを使用したブログ環境を構築しました。
